@@ -1,7 +1,7 @@
 begin
 puts 'Rock! Paper! Scissors!'
 puts 'Enter your choice!'
-puts 'R) Stone P) Paper   S) Scissors '
+puts 'R) Rock P) Paper   S) Scissors '
 
 user_choice=gets.chomp.upcase
 
